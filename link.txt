@@ -1,1 +1,1 @@
-https://example.com/@username
+https://hachyderm.io/@cdoremus
